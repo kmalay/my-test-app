@@ -11,7 +11,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <p>
-          This is some new text.
+          This is some new text for the app component.
         </p>
         <a
           className="App-link"
